@@ -1,12 +1,12 @@
 -- SALESKEN ASSIGNMENT --
-This is a student reporting system project with mentioned functionalities."\n"
+This is a student reporting system project with mentioned functionalities.
 (Semesters are only 2 and subjects are namely English, Maths, Science)
 
 Technology stack - 
-- Elastic search
-- Kibana
-- Spring Boot
-- Java
+    Elastic search 
+    Kibana 
+    Spring Boot
+    Java
 
 - Add Students with Marks in Multiple Subjects for multiple Semester
   API CALL - (localhost:8080/createOrUpdateDocument)
