@@ -17,7 +17,7 @@ Technology stack -
 - Average marks of Students in a subject
   API CALL - (localhost:8080/getAverageSubject)
 
-- Top 2 Consistent Students across all semesters (Maximum average marks
+- Top 2 Consistent Students across all semesters (Maximum average marks)
   API CALL - (localhost:8080/top2Consistent)
 
 - Average marks of a Student in a Subject in both semester
